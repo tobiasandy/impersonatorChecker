@@ -1,2 +1,0 @@
-# impersonatorChecker
-impersonator checker 
